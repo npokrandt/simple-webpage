@@ -15,6 +15,12 @@ h1 {
     padding: 20px;
 }
 
+h2 {
+    border: 5px dashed white;
+    background-color: tomato;
+    padding: 10px;
+}
+
 img {
     width: 250px;
     display: block;
